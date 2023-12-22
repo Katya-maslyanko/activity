@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">activity</string>
+    <string name="dial_button_text">Dial</string>
+    <string name="next_button_text">Next</string>
+    <string name="enter_edit_text">Enter text</string>
+    <string name="number_edit_text">Enter number</string>
+</resources>
